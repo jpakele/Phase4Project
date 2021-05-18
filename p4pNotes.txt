@@ -1,0 +1,4 @@
+Pyspark
+
+impliment 2 different algorithms to reccomend movies using surpise
+	- be prepared to tell why you picked these over something else
