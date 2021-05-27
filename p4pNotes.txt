@@ -2,3 +2,11 @@ Pyspark
 
 impliment 2 different algorithms to reccomend movies using surpise
 	- be prepared to tell why you picked these over something else
+
+Look into streamlit
+
+ - Visualized the data
+ - impliment user input for 'coldstart'
+ - narrow down to 1 algorithm and itterate to improve
+ - return a list of 5-10 recommended movies based on predicted likes.
+ - 
